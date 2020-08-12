@@ -13,4 +13,4 @@ The evaluation metric for this competition is RMSE (root mean squared error) ove
 Used the exisitng Haar Cascade frontal face of open CV.
 also, used deep learning to train the CNN model.
 
-Got RMSe of 2.211
+Got RMSE of 2.211
